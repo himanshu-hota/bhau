@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bhau/static/css/main.ce11eb91.css",
+    "main.js": "/bhau/static/js/main.f9753d8f.js",
+    "static/media/video1.mp4": "/bhau/static/media/video1.aead3c4e8687a5efcfe1.mp4",
+    "static/media/video2.mp4": "/bhau/static/media/video2.bcdf37948a9a862249bc.mp4",
+    "index.html": "/bhau/index.html",
+    "main.ce11eb91.css.map": "/bhau/static/css/main.ce11eb91.css.map",
+    "main.f9753d8f.js.map": "/bhau/static/js/main.f9753d8f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce11eb91.css",
+    "static/js/main.f9753d8f.js"
+  ]
+}
