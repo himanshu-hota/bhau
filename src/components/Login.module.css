@@ -1,0 +1,10 @@
+.container {
+  color: aliceblue;
+  position: relative;
+}
+
+.flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
